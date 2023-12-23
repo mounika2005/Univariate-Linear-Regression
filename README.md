@@ -39,7 +39,8 @@ plt.plot(X,Y_Pred,color="red")
 plt.show()
 ```
 ## Output:
-![WhatsApp Image 2023-12-23 at 19 20 23_1bb7c853](https://github.com/mounika2005/Univariate-Linear-Regression/assets/145633112/caa156fb-d705-4a89-a74c-025310f93b67)
+![Screenshot 2023-12-23 201535](https://github.com/mounika2005/Univariate-Linear-Regression/assets/145633112/b38416be-ea87-4d89-84e3-8f1103c0eaf8)
+
 
 ![image](https://github.com/AnnaLahari/Univariate-Linear-Regression/assets/149365425/cff1e9d9-d283-48cf-80c8-d67a380350ce)
 
